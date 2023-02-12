@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning the Fundamentals of Google Cloud.<br>I'm looking for help with Data Structures and Algorithms.<br>Second-year engineering student @Vidyavardhaka<br>College of Engineering (AI&ML).<br><br>
+<br>UG Engineering student<br>
 
 
 ## 🌐 Socials:
