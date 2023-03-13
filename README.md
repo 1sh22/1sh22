@@ -1,11 +1,10 @@
+<h1 align="center">Hi 👋, I'm Ishaan Choubey</h1>
+<h3 align="center">A junior developer with a strong passion for Machine Learning.</h3>
+
+
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm Ishaan Choubey</h1>
 
-<h3 align="center">A junior developer with a strong passion for Machine Learning.</h3>
-<p align="center">
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coding” width="250" height="250" align="center">
-</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1sh22&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="1sh22" /></a> </p>
 
 - 🔭 I’m currently working on **Fake news prediction using ML**
@@ -18,6 +17,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18I0T1ZhiuicbgPp3140MaI6b2Qz1z_tA/view?usp=sharing](https://drive.google.com/file/d/18I0T1ZhiuicbgPp3140MaI6b2Qz1z_tA/view?usp=sharing)
 
+
+<p align="center">
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Coding” width="250" height="250">
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ishaanchoubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaanchoubey" height="30" width="40" /></a>
