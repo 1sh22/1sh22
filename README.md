@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ishaanchoubey3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18I0T1ZhiuicbgPp3140MaI6b2Qz1z_tA/view?usp=sharing](https://drive.google.com/file/d/18I0T1ZhiuicbgPp3140MaI6b2Qz1z_tA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16Xfq0n-35vmWa79dh7CzOcSXBmnCUWV9/view?usp=sharing)
 
 
 <p align="center">
