@@ -5,22 +5,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1sh22&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="1sh22" /></a> </p>
 
 - 🔭 I’m currently working on **Fake news prediction using ML**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 💬 Ask me about **Machine Learning,Python,C,Java**
-
+- 💬 Ask me about **Machine Learning, Python, C, Java**
 - 📫 How to reach me **ishaanchoubey3@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16Xfq0n-35vmWa79dh7CzOcSXBmnCUWV9/view?usp=sharing)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1sh22&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="1sh22" /></a> </p>
 
-<p align="center">
-<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Coding” width="250" height="250">
-</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ishaanchoubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaanchoubey" height="30" width="40" /></a>
