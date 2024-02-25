@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaan Choubey</h1>
+<h1 align="center">Heyy, I'm Ishaan Choubey</h1>
 <h3 align="center">A junior developer with a strong passion for Machine Learning.</h3>
 
 
@@ -6,13 +6,17 @@
 
 
 
-- 🔭 I’m currently working on **Fake news prediction using ML**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-- 💬 Ask me about **Machine Learning, Python, C, Java**
-- 📫 How to reach me **ishaanchoubey3@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16Xfq0n-35vmWa79dh7CzOcSXBmnCUWV9/view?usp=sharing)
+### About Me 🤖
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1sh22&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="1sh22" /></a> </p>
+- 🔭 Currently delving into **Natural Language Processing models**
+- 🌱 Exploring advanced techniques in **Deep Learning**
+- 💬 Let's discuss **Machine Learning, Neural Networks, Python**
+- 📫 Reach out to me via email: [Ishaan Choubey](mailto:ishaanchoubey3@gmail.com)
+- 📄 Check out my Resume: [Resume](https://drive.google.com/file/d/1vf1kPzBgYC_IDhUVGgCeCIKkODxaoIpW/view?usp=sharing)
+
+Excited to collaborate and innovate in the realm of Machine Learning! Let's connect! 🚀
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
