@@ -4,8 +4,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-
-
 ### About Me 🤖
 
 - 🔭 Currently delving into **Natural Language Processing models**
@@ -34,6 +32,7 @@ Excited to collaborate and innovate in the realm of Machine Learning! Let's conn
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1sh22&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false" alt="1sh22" /></p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
