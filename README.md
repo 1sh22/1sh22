@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Ishaan Choubey</h1>
+<br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" width="700" height="250"></p>
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 
 
 ### About Me 🤖
