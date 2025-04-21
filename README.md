@@ -8,14 +8,15 @@
 ### About Me 🤖
 
 -  21, Developer 
--  Currently delving into **MERN**
--  Exploring and building **AI Projects**
+-  Building stuff
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ishaanchoubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaanchoubey" height="30" width="40" /></a>
-<a href="https://kaggle.com/ishaanchoubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishaanchoubey" height="30" width="40" /></a>
-<a href="https://x.com/ishaanchoubey22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishaan.choubey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishaan-choubey-b6b627245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaanchoubey" height="30" width="40" /></a>
+
+<a href="https://x.com/ishaanchoubey22" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="ishaan.choubey" height="40" width="40" />
+</a>
 
   <br>
 
