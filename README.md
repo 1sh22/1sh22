@@ -4,7 +4,7 @@ I write some code.
 
 
 #### Social
-- X (Twitter): [@ishaanchoubey22](https://x.com/ishaanchoubeyy)
+- X (Twitter): [@ishaanchoubeyy](https://x.com/ishaanchoubeyy)
 - Email: ishaanchoubey3@gmail.com
 - LinkedIn: [ishaanchoubey](https://www.linkedin.com/in/ishaanchoubey/)
 
